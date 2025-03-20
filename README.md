@@ -1,5 +1,5 @@
 # Hey there!
-## 
+
 I' Kseniia, a QA engineer with a passion for testing and quality assurance, striving to ensure every product meets high standards and performs flawlessly.
 
 <!--Hi! I’m Kseniia, just starting my journey in QA. 
@@ -76,13 +76,13 @@ This repo includes the projects I’ve worked on so far. Feel free to check them
 <br>
 
 ## 🎒  Education
-<!-- [<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)-->
+<!-- [<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png) -->
 
 <br>
 <br>
 
 ## 🤝 Contacts
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:k.karpova.spb@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kseniya_krp)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
