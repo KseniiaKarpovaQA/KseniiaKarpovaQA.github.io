@@ -1,4 +1,4 @@
-# Hey there!
+# Hi there!
 
 I' Kseniia, a QA engineer with a passion for testing and quality assurance, striving to ensure every product meets high standards and performs flawlessly.
 
